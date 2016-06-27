@@ -1,0 +1,13 @@
+﻿  processvideo.cpp
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(296): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(312): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(360): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(400): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(408): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(483): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(506): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjsanjay\desktop\msystems\final_project\task2\summarize_video\summarize_video\processvideo.cpp(326): warning C4715: 'processvideo::read_write_a': not all control paths return a value
+  summarize_video.vcxproj -> C:\Users\CJSANJAY\Desktop\MSystems\Final_Project\Task2\summarize_video\Debug\summarize_video.exe
+  summarize_video.vcxproj -> C:\Users\CJSANJAY\Desktop\MSystems\Final_Project\Task2\summarize_video\Debug\summarize_video.pdb (Partial PDB)
